@@ -5,8 +5,11 @@
 * [The Outline](https://theoutline.com/)
 * [The Intercept](https://theintercept.com/)
 
+## Games
+* [Bruno Simon (Talented WebGL developer)](https://bruno-simon.com/) - also offers a [course](https://threejs-journey.com/)
+* [Delivery](https://dumplingdelivery.mailchimp.com/)
+
 ## Design
-* [Rule of Three (Copywriting & Creative Agency)](https://www.rule-of-three.co.uk/)
 * [Anneka Goss (Talented WebGL and XR developer)](https://www.annekagoss.com)
 * [Digilab Kunsthaus Zürich](https://digilab.kunsthaus.ch/en)
 * [Blok (sadly no longer works)](http://blok.im/)
@@ -16,6 +19,7 @@
 * [Niccolo Miranda](https://www.niccolomiranda.com/)
 * [Untruths and Consequences](https://untruthsandconsequences.com/)
 * [The Unconventional Gallery](https://unconventionalgallery.ruinart.com/#/)
+* [Rule of Three (Copywriting & Creative Agency)](https://www.rule-of-three.co.uk/)
 
 ## Odysseys
 * [Zendetta](https://www.zendetta.com/)
@@ -25,7 +29,3 @@
 * [We are Influence](https://www.weareinfluence.com/en)
 * [Neocities](https://neocities.org/browse?tag=vaporwave)
 * [Nightwave Plaza](https://plaza.one/)
-
-## Games
-* [Bruno Simon (Talented WebGL developer)](https://bruno-simon.com/) - also offers a [course](https://threejs-journey.com/)
-* [Delivery](https://dumplingdelivery.mailchimp.com/)
