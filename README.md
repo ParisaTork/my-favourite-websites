@@ -1,9 +1,10 @@
 # my-favourite-websites
 
-## News
+## News/Activism
 * [The Guardian](https://www.theguardian.com/uk) - [Story behind the UI re-design](https://www.theguardian.com/media/2018/jan/15/guardian-new-look-online-katharine-viner)
 * [The Outline](https://theoutline.com/)
 * [The Intercept](https://theintercept.com/)
+* [Good Law Project](https://goodlawproject.org/)
 
 ## Games
 * [Bruno Simon (Talented WebGL developer)](https://bruno-simon.com/) - also offers a [course](https://threejs-journey.com/)
