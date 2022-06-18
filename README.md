@@ -4,6 +4,7 @@
 * [The Guardian](https://www.theguardian.com/uk) - [Story behind the UI re-design](https://www.theguardian.com/media/2018/jan/15/guardian-new-look-online-katharine-viner)
 * [The Outline](https://theoutline.com/)
 * [The Intercept](https://theintercept.com/)
+* [Centre for Investigative Journalism](https://tcij.org/)
 * [Good Law Project](https://goodlawproject.org/)
 
 ## Games
