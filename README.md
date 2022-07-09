@@ -6,6 +6,8 @@
 * [The Intercept](https://theintercept.com/)
 * [Centre for Investigative Journalism](https://tcij.org/)
 * [Good Law Project](https://goodlawproject.org/)
+* [ICIJ](https://www.icij.org/)
+* [OCCRP](https://www.occrp.org/en)
 
 ## Games
 * [Bruno Simon (Talented WebGL developer)](https://bruno-simon.com/) - also offers a [course](https://threejs-journey.com/)
