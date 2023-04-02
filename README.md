@@ -8,6 +8,9 @@
 * [Good Law Project](https://goodlawproject.org/)
 * [ICIJ](https://www.icij.org/)
 * [OCCRP](https://www.occrp.org/en)
+* [gal-dem](https://gal-dem.com/)
+* [Asterisk Magazine](https://asteriskmag.com/)
+* [Skin Deep](https://skindeepmag.com/)
 
 ## Games
 * [Bruno Simon (Talented WebGL developer)](https://bruno-simon.com/) - also offers a [course](https://threejs-journey.com/)
