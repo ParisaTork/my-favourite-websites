@@ -5,6 +5,7 @@
 * [The Outline](https://theoutline.com/)
 * [The Intercept](https://theintercept.com/)
 * [Centre for Investigative Journalism](https://tcij.org/)
+* [Global Investigative Journalism Network](https://gijn.org/)
 * [Good Law Project](https://goodlawproject.org/)
 * [ICIJ](https://www.icij.org/)
 * [OCCRP](https://www.occrp.org/en)
