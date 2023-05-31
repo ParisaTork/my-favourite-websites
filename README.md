@@ -12,6 +12,7 @@
 * [gal-dem](https://gal-dem.com/)
 * [Asterisk Magazine](https://asteriskmag.com/)
 * [Skin Deep](https://skindeepmag.com/)
+* [Nautilus](https://nautil.us/)
 
 ## Games
 * [Bruno Simon (Talented WebGL developer)](https://bruno-simon.com/) - also offers a [course](https://threejs-journey.com/)
